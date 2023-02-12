@@ -1,6 +1,6 @@
 ﻿//{{NO_DEPENDENCIES}}
 // Включаемый файл, созданный в Microsoft Visual C++.
-// Используется CG1.rc
+// Используется CG_1.rc
 
 #define IDS_APP_TITLE			103
 
